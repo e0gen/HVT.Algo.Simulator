@@ -1,4 +1,5 @@
 using HVT.Core.Domain.Configs;
+using HVT.Core.Strategies;
 
 namespace HVT.Core.Domain.Interfaces;
 
