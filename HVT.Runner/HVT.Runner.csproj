@@ -1,13 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
     <PropertyGroup>
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <OutputType>Exe</OutputType>
     </PropertyGroup>
 
     <ItemGroup>
         <ProjectReference Include="..\HVT.Core\HVT.Core.csproj"/>
+        <ProjectReference Include="..\HVT.Simulator\HVT.Simulator.csproj"/>
     </ItemGroup>
 
 </Project>

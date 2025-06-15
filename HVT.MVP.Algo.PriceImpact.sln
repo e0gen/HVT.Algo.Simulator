@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVT.Domain", "HVT.Domain\HVT.Domain.csproj", "{D300E7D7-E12E-4320-8495-0E0FA339D779}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVT.Core", "HVT.Core\HVT.Core.csproj", "{D300E7D7-E12E-4320-8495-0E0FA339D779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVT.Simulator", "HVT.Simulator\HVT.Simulator.csproj", "{81290272-99EA-423E-9067-6BF810C3EFAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVT.Runner", "HVT.Runner\HVT.Runner.csproj", "{41620952-AFBD-4D91-8E3F-AC04794D5126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVT.Algo", "HVT.Algo\HVT.Algo.csproj", "{41620952-AFBD-4D91-8E3F-AC04794D5126}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVT.Simulator", "HVT.Simulator\HVT.Simulator.csproj", "{B7686840-4BB2-4E9B-ACA0-B6A20063BA1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		{D300E7D7-E12E-4320-8495-0E0FA339D779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D300E7D7-E12E-4320-8495-0E0FA339D779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D300E7D7-E12E-4320-8495-0E0FA339D779}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81290272-99EA-423E-9067-6BF810C3EFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81290272-99EA-423E-9067-6BF810C3EFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81290272-99EA-423E-9067-6BF810C3EFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81290272-99EA-423E-9067-6BF810C3EFAB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{41620952-AFBD-4D91-8E3F-AC04794D5126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{41620952-AFBD-4D91-8E3F-AC04794D5126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41620952-AFBD-4D91-8E3F-AC04794D5126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41620952-AFBD-4D91-8E3F-AC04794D5126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7686840-4BB2-4E9B-ACA0-B6A20063BA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7686840-4BB2-4E9B-ACA0-B6A20063BA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7686840-4BB2-4E9B-ACA0-B6A20063BA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7686840-4BB2-4E9B-ACA0-B6A20063BA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
